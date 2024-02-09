@@ -1,0 +1,33 @@
+baseURL = 'https://きく.コム/'
+languageCode = 'en-us'
+theme = "nightfall"
+publishDir = '/var/www/きく.コム/'
+
+[menu]
+  [[menu.header]]
+    name = 'blog'
+    weight = 3
+    post = 'external'
+    url = 'https://ブログ.きく.コム'
+  [[menu.header]]
+    name = 'library'
+    weight = 1
+    post = 'external'
+    url = 'https://図書館.きく.コム'
+  [[menu.header]]
+    name = 'telegram'
+    weight = 2
+    post = 'external'
+    url = 'https://t.me/reverse_dungeon'
+  [[menu.header]]
+    name = 'about'
+    weight = 0
+    url = '/about/'
+
+
+[params]
+user = "truebad0ur"
+hostname = "きく.コム"
+
+readingTime = false
+published = false

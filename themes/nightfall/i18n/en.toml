@@ -1,0 +1,27 @@
+[not_found]
+    other = "NOT FOUND"
+
+[not_found_desc]
+    other = "You just hit a route that doesn't exist..."
+
+[published]
+    other = "published"
+
+[reading_time]
+    other = "reading time"
+
+[reading_time_desc]
+  one = "1 minute"
+  other = "{{ .Count }} minutes"
+
+[authors]
+  other = "authors"
+
+[tags]
+  other = "tags"
+
+[categories]
+  other = "categories"
+
+[theme]
+  other = "theme"
