@@ -1,7 +1,7 @@
 baseURL = 'https://きく.コム/'
 languageCode = 'en-us'
 theme = "nightfall"
-publishDir = '/var/www/きく.コム/'
+publishDir = '../static/'
 
 [menu]
   [[menu.header]]
