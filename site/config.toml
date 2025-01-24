@@ -28,6 +28,7 @@ publishDir = '../static/'
 [params]
 user = "truebad0ur"
 hostname = "きく.コム"
+footerHtml = '2025'
 
 readingTime = false
 published = false
